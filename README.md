@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I'm currently in the Final year of my Masters of Science in IT.<br>
+🔭 I'm a recent graduate - Masters of Science in IT.<br>
 🌱 I've Freelanced as a Frontend Developer.<br>
-⚡ I've also done projects in Machine Learning, Java, MySQL and Android.<br>
+⚡ I've also done projects in Machine Learning, Java, Python, MySQL and Android.<br>
 
 
 ## 🌐 Socials:
